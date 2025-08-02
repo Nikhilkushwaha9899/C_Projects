@@ -52,7 +52,7 @@ A simple game that lets you play Rock, Paper, Scissors against the computer.
 
 ---
 
-###🔄 Number System Converter
+🔄 Number System Converter
 A program to convert decimal numbers into binary, octal, and hexadecimal representations.
 
 Features:
