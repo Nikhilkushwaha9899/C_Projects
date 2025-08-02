@@ -52,13 +52,3 @@ A simple game that lets you play Rock, Paper, Scissors against the computer.
 
 ---
 
-## 🛠️ How to Run
-
-Make sure you have a C compiler like `gcc` installed.
-
-Compile and run using the terminal:
-
-```bash
-gcc calculator.c -o calculator
-./calculator
-
