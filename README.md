@@ -52,3 +52,18 @@ A simple game that lets you play Rock, Paper, Scissors against the computer.
 
 ---
 
+###🔄 Number System Converter
+A program to convert decimal numbers into binary, octal, and hexadecimal representations.
+
+Features:
+
+Convert decimal input to binary (custom implementation)
+
+Use built-in format specifiers for octal and hexadecimal
+
+Handles zero input gracefully
+
+📄 File: number_system_converter.c
+
+---
+
