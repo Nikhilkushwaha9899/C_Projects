@@ -67,3 +67,20 @@ Handles zero input gracefully
 
 ---
 
+❌⭕ Tic-Tac-Toe
+A classic two-player game where players take turns marking spaces in a 3×3 grid.
+
+Features:
+
+Simple console interface with numbered grid cells
+
+Input validation for moves
+
+Detects win or draw conditions
+
+Alternates turns between two players
+
+📄 File: tic_tac_toe.c
+
+---
+
