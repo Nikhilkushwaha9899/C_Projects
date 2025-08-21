@@ -2,10 +2,10 @@
 
 This repository contains three beginner-friendly C programming projects:
 
-1. **Calculator**
-2. **Number Guessing Game**
-3. **Rock Paper Scissors**
-4. Tic-Tac-Toe
+1. **Calculator*
+2. **Number Guessing Game*
+3. **Rock Paper Scissors*
+4. **Tic-Tac-Toe*
 
 Each project is written in C and demonstrates basic concepts like conditional statements, loops, user input, and simple logic building.
 
